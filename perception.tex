@@ -16,15 +16,15 @@
 
 % Packages
 \usepackage{geometry} \geometry{a4paper} 
-\usepackage{url}
-\usepackage{txfonts}
+% \usepackage{url}
+% \usepackage{txfonts}
 \usepackage{color}
-\usepackage{epigraph}
+% \usepackage{epigraph}
 % \usepackage{enumerate}
 % \usepackage{tikz}
 % \usepackage{amsmath}
 % \usepackage{tkz-euclide}
-\usetkzobj{all}
+% \usetkzobj{all}
 \definecolor{gray}{rgb}{0.459,0.438,0.471}
 
 % XeTeX
@@ -52,18 +52,18 @@
 \date{}
 
 \maketitle
-\pagenumbering{gobble}
+% \pagenumbering{gobble}
 \frontmatter
 % \include{epigraph}
-\pagenumbering{roman}
+% \pagenumbering{roman}
 \tableofcontents
 % \include{preface}
 % \include{acknowledgements}
 
 \mainmatter
 
-\include{grasping}
-\include{sympathy}
+\input{grasping}
+\input{sympathy}
 
 
 \backmatter
@@ -80,6 +80,6 @@
 \bibliography{Philosophy}
 
 % Index
-\printindex
+% \printindex
 
 \end{document}
