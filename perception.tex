@@ -1,0 +1,85 @@
+%!TEX TS-program = xelatex 
+
+%!TEX encoding = UTF-8 Unicode
+%
+%  perception
+%
+%  Created by Mark Eli Kalderon on 2014-11-22.
+%  Copyright (c) 2014. All rights reserved.
+%
+
+\documentclass[12pt]{book} 
+
+% Definitions
+\newcommand\mykeywords{perception, epistemology, presentation, capacity}
+\newcommand\myauthor{Mark Eli Kalderon}
+
+% Packages
+\usepackage{geometry} \geometry{a4paper} 
+\usepackage{url}
+\usepackage{txfonts}
+\usepackage{color}
+\usepackage{epigraph}
+% \usepackage{enumerate}
+% \usepackage{tikz}
+% \usepackage{amsmath}
+% \usepackage{tkz-euclide}
+\usetkzobj{all}
+\definecolor{gray}{rgb}{0.459,0.438,0.471}
+
+% XeTeX
+\usepackage[cm-default]{fontspec}
+\usepackage{xltxtra,xunicode}
+\defaultfontfeatures{Scale=MatchLowercase,Mapping=tex-text}
+\setmainfont{Hoefler Text}
+
+% Bibliography
+\usepackage[round]{natbib}
+
+% Index
+% \usepackage{makeidx}
+% \makeindex
+
+% PDF Stuff
+\usepackage[plainpages=false, pdfpagelabels, bookmarksnumbered, backref, pdftitle={Form Without Matter}, pagebackref, pdfauthor={\myauthor}, pdfkeywords={\mykeywords}, xetex, colorlinks=true, citecolor=gray, linkcolor=gray, urlcolor=gray]{hyperref}
+
+%%% BEGIN DOCUMENT
+\begin{document}
+
+% % Title Page
+\author{\myauthor}
+\title{Sympathy and Sensory Presentation}
+\date{}
+
+\maketitle
+\pagenumbering{gobble}
+\frontmatter
+% \include{epigraph}
+\pagenumbering{roman}
+\tableofcontents
+% \include{preface}
+% \include{acknowledgements}
+
+\mainmatter
+
+\include{grasping}
+\include{sympathy}
+
+
+\backmatter
+
+% Nocite
+
+\nocite{Hamlyn:2002ys}
+\nocite{Ross:1906fk}
+\nocite{Ross:1961uq}
+\nocite{Ross:1924aa}
+
+% Bibligography
+\bibliographystyle{plainnat} 
+\bibliography{Philosophy}
+
+% Index
+\printindex
+
+\end{document}
