@@ -1,0 +1,120 @@
+This book constitutes a valuable contribution to the philosophy of perception as well as to the study of its history. Kalderon wants to refocus contemporary discussion by appeal to the ways in which perception was understood, or apparently understood, in the premodern West. In that sense, this book continues efforts he has made in papers and in his recent book _Form Without Matter_. No one else is doing work like this, and it might be better for philosophy if more such work were done. The challenge in undertaking such a task is becoming familiar with a significant amount of philosophy that is all but ignored in contemporary curricula as well as remaining on top of a substantial contemporary literature in the philosophy of perception. 
+Though Kalderon wants to rework the contemporary conceptual landscape in philosophy of perception, the book will also appeal to those uninterested in such revision. For example, there has been increased interest in non-visual senses amongst philosophers over the last ten years or so with a lot of work on audition, olfaction, and, more recently, touch. It turns out that in a pre-modern context these senses are given much more attention, and touch, then audition, are the main focuses of this book. Similarly, over the last 20 years so-called “disjunctivist” accounts of perception have become increasingly popular, as against representationalist and indirect models of perception. But premodern philosophy shows that such views have a serious pedigree, even if they were not worked out in precisely the same terms as their contemporary counterparts. So, this book, with its premodern historical focus, feels surprisingly contemporary. I don’t know of anyone who combines Kalderon’s knowledge of the premodern corpus with a grasp of the contemporary scene. Robert Pasnau is an interesting contrast: he is better historically but weaker on the contemporary work than Kalderon, in my opinion.
+
+The first two chapters develop the concept of grasping, literally in the haptic sense, as a model for perception generally. A puzzle about how grasping could intimate an objective world, developed at the end of chapter 1, leads, in chapter 2, to the claim that sympathy, understood in a very specific sense, solves the puzzle. Chapters 3 and 4 apply the account to audition while chapter 5 applies it to vision, and chapter 6 concludes with a general consideration of realism and objectivity. I learned a lot reading this book, and naturally I have some complaints. Though I think some revision is in order, I definitely think the book should be published. 
+
+Here are my main complaints, which get fleshed out in the page-specific comments below. 
+
+First, in Chapter 1, we are told early on (21) that qualities are presented in experience, but it is unclear just what presentation is supposed to be. 
+Second, the notion of a perspective (specifically, a haptic perspective) is not unpacked in enough detail to be terribly useful. 
+
+Third, in Chapter 2, the notion of sympathetic response is never given full articulate voice, despite the length of the chapter. I think this is a very important point because it forms the basis for how we ought to understand audition and vision in subsequent chapters, so it will definitely help to have this worked out better. These first two chapters are, by far, the hardest to read, and I think they would benefit from some work making them user-friendly. 
+Fourth, Chapter 3 makes interesting arguments about sounds. They are, however, untethered from the conclusion of Ch 2 (we only get there in Ch 4), and they do not engage with the existing literature on sounds in a way they should if this book is meant to engage with contemporary debates. 
+
+Fifth, in chapter 4 I think more can be said about how the “Heideggerian” account of auditory perception relates to contemporary work in the area. In general, I think the structure of chs 3 and 4 needs to be signposted more, since I did get a bit confused about the role of chapter 3 in the whole and the use of the term ‘sounds’ in chapter 4.
+
+Despite minor comments I found chapters 5 and 6 easy to follow and fun to read.
+One general worry about this book is that it is not quite clear who the main audience is supposed to be. At times, the discussion proceeds as though the reader must be well-versed in the historical texts being discussed, even though one of the stated reasons for writing the book is to reach those unfamiliar with such texts. The older material, throughout, needs some more careful unpacking, and I think it would help to do so in light of the contemporary conceptual landscape in philosophy of perception. I realize that one of the book’s goals is to rework that landscape, but since readers will invariably try to use the concepts currently on the table as tools for understanding what’s going on, Kalderon should put more effort into mapping his new set of concepts onto those currently in use. Though I like working through books that strike me as somewhat aporetic, other readers do not, so making the book more user friendly will ensure a larger, happier audience.
+
+Another worry that stems, on my part, more from ignorance than anything else, is whether the book does a great job of handling the historical texts. Kalderon’s discussion certainly seems coherent and insightful, but I’d want to hear from an expert on the period whether this is a responsible use of earlier work. In a related, scholarly, vein: are these Kalderon’s translations? Even if they are not, is Kalderon working with the texts in their original languages, or relying on translations? I don’t think any specific answer to these questions would disqualify the book from being publishable, but I do think the reader should be informed in a more precise fashion about how Kalderon is approaching these texts. 
+
+Page-specific comments
+
+Ch1
+
+16: “The partial and imperfect character of haptic disclosure must itself be disclosed in the haptic experience that affords it.” And then later the claim is that haptic experiences exhibit constancy. Might the former be explained by the latter? Why not try to unpack that point?
+
+19-20: I thought there was more variation in accounts of sounds than suggested here. Pasnau 1999 suggests they are qualities, and in different ways so do Nudds and Kulvicki.
+
+20: “the presence of the object of perception may be disclosed over time in perceptual experience.” Why not say that the features of the object are disclosed over time? Is the object not present when grasped, at a time? Later on the same page you say that "perceptual experience may disclose its object over time”, which seems like a different, and more plausible, claim.
+
+21: Things get confusing here. “If our haptic experience is where we handle the object grasped, perhaps the similarity obtains not only between the hand and certain tangible qualities of the object, but between the haptic experience that the hand’s activity gives rise to and the tangible qualities presented in it.” First, why can’t this relationship hold between the experience and the qualities presented in it even if the experience is not located where we handle the object? Second, what is it for tangible qualities to be presented in an experience? I thought that the book was working toward some clear notion of perceptual presentation, but here some notion of it, and perceptual experience, seems to be assumed. I’m not sure what to make of the point. The generalization sought here seems important, so I think some more unpacking is worth it. Related question: What, precisely, is formal assimilation? It comes up quite a bit in the following pages, but I am getting lost.
+
+22: Are you sure Merleau-Ponty is talking, specifically, about peri-personal space in the quote?
+
+21-23: Perhaps more could be said relating visual perspectives to haptic perspectives. For example, visual perspectives involve perspectival qualities, or the way things seem spatially, from here. So, a visual perspective is not just about the disclosure of some, but not all, of an object’s non-perspectival qualities. But in the haptic case it might be just that, which suggests that a haptic perspective is quite different than its visual analogue. This seems important because the notion of a perspective keeps coming up later on in the chapter. What, precisely, is a perspective?
+
+24: See comment on p.16. Here, the claim is that the tendency to explore requires constancy, but this was not claimed earlier, or so I think.
+
+25: There is something anti-modern about this proposal, but it seems like there is a bit of cherry picking going on. Locke, for example, was fond of resemblance talk and he certainly counts as early modern. (Locke turns up on 28, e.g.)
+
+27-28: On the causal-constitutive shaping distinction: I don’t quite follow the analogy between the London skyline example and the signet ring. The signet ring is gone once it has made its impression, so it is not a part of the wax’s shape once it has been removed. The same is not true for buildings that constitute the skyline. I can try to individuate wax impressions by their particular causes, but all I have to go on are the effects. I think the point is that perceptual states are not portable in the way wax impressions are, so we can conceive of them as being shaped constitutively. But in that case I think the signet ring example is a bad one.
+
+28-29: Here again we lean on a notion of presentation in experience that has not yet been carefully unpacked.
+
+29: “If perception involves becoming like the perceived object actually is, then it is a genuine mode of awareness.” I don’t understand this sentence. This paragraph is generally confusing. Yes, I couldn’t undergo such an experience absent the object, but I could, presumably, undergo a similar experience absent it, and so the epistemic significance of perception, understood in this way, needs some more unpacking. At this point, philosophers of perception will bring all of the discussion over disjunctivism to bear in thinking about the situation, so even though the goal is to fashion some new tools for understanding perception, I think it would be valuable to contrast what is being said here with the contemporary work, so as to make it clear where the present proposal departs from and dovetails with the contemporary stuff. 
+
+31: Could you contextualize the Kirwardby quote a bit? It starts with “You will have some kind of similie for understanding this…” but I don’t have any sense of what this is. I _think_ the point is articulated later on the page, and onto 32, but I am not sure.
+
+35: Do we need objects external to the body to give a sense of objectivity? I can grasp my own hand, or try to scratch the middle of my back, and encounter just the kind of resistance that animates the discussion here. Similarly, the experience of having weight, being stuck on the ground, would seem to manifest resistance related to what is discussed here, even though there is nothing particularly active about it on the perceiver’s part. The experience of weight is passive, even though it seems related to some sense of objectivity, and this might help with the analogy between a haptic sense and the other senses. Perhaps weight is not haptic, but kinesthetic, though I can’t separate the two clearly.
+
+38: By the end of the chapter I am losing the sense of what makes the haptic case distinctive. Felt resistance to grasping is distinctively haptic, but in other modalities we have the well-known fact that what we see, hear, smell, etc., is not up to us. Try as we might, we cannot choose what we see or hear, except in the sense that we can situate ourselves with respect to things we want to hear. Perhaps an overview of what makes this haptic case distinctive, or even a look at how the case is supposed to generalize, would be helpful at this point.
+
+Ch2
+
+43: I don’t know the Fulkerson book, but this discussion is confusing. Earlier in the chapter, the block quote makes it clear that he thinks implicit experiences are “in consciousness”, but here the claim is that they are not experiences. Help.
+
+44: See my earlier comments about getting clearer about what a perspective is supposed to be. Being clearer there would help with the end of 2.2 as well.
+
+45: I get that it is valuable to investigate grasping phenomenologically, but I tend to think we need to be careful about how bold the claims are that we can draw from such an analysis. Here it seems as though things get out of hand: “But the disclosure of an object’s overall shape and volume in grasping or enclosure is not apparently mediated in this way.” Perhaps, but I don’t know what conclusion one can draw from this. It might be mediated in that way, even if it’s not obvious that it is.
+
+47: Appeal to sympathetic responses would be more helpful if they were clearly defined. As it stands, it feels a bit like substituting one mystery for another. Appeal to the Stoic notion on the following page is unhelpful because it is similarly not unpacked. We do get more in 2.6 (which starts on 56), but that doesn’t help much.
+
+48ff: I wonder whether the analytic/synthetic distinction between approaches to sympathy can fruitfully be related to the constitutive/causal distinction mooted earlier.
+
+50f: I don’t think appealing to Plotinus can possibly help elucidate things here unless Plotinus himself is unpacked in more detail. Or, to be more concessive, I think this remark applies to the vast majority of potential readers.
+
+52: What is “the principle of sympathy”?
+
+56: This discussion of sympathy in the Stoics does not really help me understand why it is a helpful tool for solving the puzzle introduced at the end of Ch1. In some sense, as far as I follow, a sympathetic response results from the fact that organisms are interconnected wholes, so affecting them somewhere, in one way, can cause effects elsewhere. How is an appeal to sympathy not just an appeal to cause and effect? You can’t want it to be an appeal to cause and effect, since you think that there’s more to understanding the puzzle than cause and effect can answer. I realize that something about sympathy only working within a pre-established unity should block the worry about this reducing to cause and effect talk, but I cannot tell how.
+60f: This helps a bit with understanding sympathy, but I’m still confused. One of the points is that a sympathetic response is not causal. But that’s not to say what it is. Another point is that resemblance is, somehow, relevant to sympathetic response, but this is not to explain how it is. Without more here it’s hard to deploy the notion of sympathy in a way that helps understand the puzzle presented at the end of Ch1.
+
+69f: Here we finally get the explicit claim about how sympathy should solve the puzzle: “It is when the limit to the hand’s activity is experienced as a sympathetic response to a countervailing force, as the hand’s force encountering an alien force resisting it, that the self-maintaining forces of the body disclose that body’s presence and tangible qualities to haptic awareness.” I’m left feeling underwhelmed, and I think it’s because I’m not quite following. Why not remove the reference to sympathy? Why not answer that we sometimes experience resistance as resistance of something else (aside from our own hands, e.g., and other bodily limitations) and in those cases we experience resistance as of an external object? What does all of the work put into unpacking sympathy do to help make the latter claim more helpful? I admit that my version sounds glib: we experience an object when we experience resistance as from another object. But why is the answer in terms of sympathy less glib? I don’t follow.
+
+2.6-2.7: This discussion is geared toward people with a better understanding of the historical texts than I have, especially the discussion of Plotinus. These two sections are another place, therefore, that I get confused about the main audience for the book. I like the discussion of Plotinus in 2.7, by the way, but it doesn’t leave me with a notion of sympathy that can do the work needed, as far as I can tell. And while the notion of sympathy needed might be sourced in these historical texts, I don’t see why we can’t start the chapter with something like a statement of what it is that will do the work needed, even if a full historical defense and explication waits until this point in the chapter.
+
+Ch 3
+
+Most likely because it relates to more contemporary work, this chapter reads much more easily than Chs 1-2. Thank you.
+
+78ff: It seems a little quick to say that sounds have durations. Yes auditory experience is temporally extended, but then again so is visual experience. Jonathan Cohen and John Kulvicki both argue that sounds do not seem to have durations. I also thought that Nudds regarded sounds as qualities of pressure waves, and Kulvicki thinks sounds are qualities of ordinary objects. If the goal is to engage with contemporary philosophy of perception, these views should at least be on the table. 
+
+80: This discussion is evocative of Nudds’s work on sounds. He thinks that experiences of sounds intimate sources.
+
+84: “on the Event View, sound is existentially independent of a medium” This is true for Casati and Dokic’s event view, but not O’Callaghan’s, according to which the relevant event is the disturbing of a medium. Bells make no sounds in the vacuum, for O’Callaghan, though they make sounds we can’t hear for Casati et al.
+
+85f: I’m not sure just taking Broad at his word is the right way to go. O’Callaghan, Pasnau, and Kulvicki, for example, suggest that the phenomenology of auditory perception strongly suggests that the wave view is false. (Nudds disagrees.) [I see that later discussion addresses some of this.]
+
+87: See my earlier remarks about unpacking the notion of perspective in more detail. Also, O’Callaghan, toward the end of his book, discusses auditory perspectives, as does Kulvicki in a recent article.
+
+I feel I’ve lost the thread of Ch3. Is is that we can think of sounds, as opposed to sources, as waves? And so, in Ch 4, we will use this distinction between sounds and sources to ask whether the Heideggerian alternative (we don’t hear sources in virtue of hearing sounds) is plausible? 
+
+Ch 4
+
+103ff: I am having a rough time with the taxonomy at this point. Nudds is presumably a neo-Berkelean, as is O’Callaghan. What about early Pasnau and Kulvicki? They suggest that sounds are qualities, so presumably the objects of audition are ordinary objects that have those qualities. Are those views Heideggerian, on your view? 
+
+Another point that comes up as I read through this section: Throughout we have been talking about sounds and their sources. But since it’s controversial just what sounds are, it’s also controversial what it means to talk about their sources. Some of the more polemical claims at the start of chapter 3 suggest a way of understanding the distinction, but if we’re to take this Heideggerian proposal seriously, it might also help to indicate that we cannot take the distinction between sounds and their sources as a given. That is, it doesn’t seem as though the problem should be: do we hear both sounds and their sources (or just one of the two)? But rather: what do we hear? Isn’t it tendentious to separate the things we hear into sounds and their sources?
+
+106f: This analogy between light and sound is also evocative of Pasnau’s and Kulvicki’s discussions of the issue.
+ 
+108f: Here too I’m worried about how exactly to use sympathy as an explanatory tool, but that’s largely due to my troubles with Ch 2. Also, I think some mention of the important analogy between grasping and listening would help here. [I see, now, that this comes up later.]
+
+110: See the earlier note on auditory perspectives.
+
+4.5: The section on listening is very helpful and plausible. And I think I see how a similar set of claims could be made for vision.
+
+Ch 5
+
+5.3: I really enjoyed the discussion of the truth in extramission, though I think it might be a bit indulgent to include all of it here since it’s not central to the main point of the chapter. 
+
+135f: On transparency and examples for color perception see Derek Brown’s recent article in Imprint.
+
+138f: does the sky (day or night: take your pick) constitute a perceptually penetrable or impenetrable body? The sky looks blue, or black speckled with light, at an indeterminate distance. What about ganzfelds? Something is presented in such cases, visually, but it lacks much articulation. What’s behind the sky, phenomenologically speaking?  Does the night sky, or a ganzfeld, resist?
+
+Ch 6
+
+I know Berkeley is not the focus, but it might pay to mention how central touch is to his early work (NTV). 
+
+143f: I don’t buy the case about color constancy. Why assume that in a case of perfect color constancy the grass would look uniform, as a child’s drawing? It would look uniformly surface colored, but not necessarily uniformly illuminated. Similar points apply to the size constancy example. Relatedly, as I have already mentioned, I am not sure you are working with the best notion of a perspective.
+
+146: Burge will be on people’s minds as they read this, so it’s great to see him mentioned, but it might also help to unpack his view in more detail as I think it’s a helpful contrast to yours.
